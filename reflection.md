@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Daniel
+Sudent Email:  dachmiel@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to use streamlit to create interactive applications that can process and display data. Specifically, I learned how to read and parse information from text inputs and files and displaying the parsed data in a presentable way.
