@@ -23,4 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-I learned how to use streamlit to create interactive applications that can process and display data. Specifically, I learned how to read and parse information from text inputs and files and displaying the parsed data in a presentable way.
+I learned how to use streamlit to create interactive applications that can process and display data. Specifically, I learned how to read and parse information from text inputs and files and displaying the parsed data in a presentable way. The first part was relatively easy and focused on displaying the data for one package using Streamlit. Part two was more difficult and gave me some trouble since Streamlit's file uploader required converting the binary content to text, which stumped me at first. However, it was good practice for reading uploaded file contents and parsing each line correctly. The final part built on the previous one and introduced a summary reporting component which helped reinforce the methods learned in the previous parts.
